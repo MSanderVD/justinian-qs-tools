@@ -1,18 +1,20 @@
 # justinian-qs-tools
 
-Stufe-1-Extraktor der Justinian-QS-Pipeline für die PhiBox-Builder-Agenten
-(`JUS Skill Master Builder v1.2`, `JUS Skill Normen Builder v1.2`).
+Stufe-1-Extraktor und vorberechnete Rechtsgrundlagen-Indizes der Justinian-QS-Pipeline für den
+PhiBox-Builder `JUS Skill Master Builder v1.2`.
 
-Der Builder lädt einen festen Tag dieses Repositorys in seine Sandbox und setzt mit
+**Weg 1 (seit 28.09.2026):** Beim Paketbau liegt keine .docx in der Sandbox. Deshalb wird der Index
+lokal je Skill vorberechnet (`index/<SKILL-ID>.md`, Manifest `index/_MANIFEST.json` mit sha256 der
+Word-Datei). Der 6. Schritt des Builders führt nur Befehle aus: Er lädt einen festen Tag dieses Repos und ruft
 
-    python3 index_md.py <skill.docx> --voranstellen <quelle.md> <ziel.md>
+    python3 index_einsetzen.py --auto /workspace/skill
 
-den Abschnitt „Rechtsgrundlagen-Index (Pflichtquellen)" deterministisch vor
-`references/normen-rechtsprechung.md`. Der Index ist das Ergebnis derselben Funktion
-(`extract_rechtsgrundlagen_deterministisch.process`), die den QS-Index baut.
+auf. Das Skript nimmt die erste JUS-ID der `SKILL.md` und setzt den Index unverändert direkt unter
+die erste Überschrift von `references/normen-rechtsprechung.md`. Ein alter Index-Abschnitt wird dabei ersetzt.
 
-- Quelle der Dateien: `.claude/skills/stufe_1_index_rechtsgrundlagen/references/` (M. Sander).
-  Änderungen dort landen erst mit einem NEUEN Tag im Builder – bewusst, damit ein Paketbau
-  reproduzierbar bleibt.
+- `index_md.py`: rechnet den Abschnitt aus der .docx (`extract_rechtsgrundlagen_deterministisch.process`),
+  also mit derselben Funktion, die den QS-Index baut.
+- Quelle der Extraktor-Dateien: `.claude/skills/stufe_1_index_rechtsgrundlagen/references/` (M. Sander).
+  Änderungen landen erst mit einem NEUEN Tag im Builder. Das ist Absicht, damit ein Paketbau reproduzierbar bleibt.
 - Nur lesend genutzt: kein CMS-Zugriff, keine Schreibwege, keine Geheimnisse.
-- POC vom 25.09.2026. Dauerlösung: Einbindung durch PhiBox selbst.
+- Dauerlösung: PhiBox legt die .docx beim Paketbau in die Sandbox (Weg 3).

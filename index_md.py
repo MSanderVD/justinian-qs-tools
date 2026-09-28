@@ -19,7 +19,7 @@ HIER = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HIER)
 import extract_rechtsgrundlagen_deterministisch as s1  # noqa: E402
 
-VERSION = "v1"
+VERSION = "v2"
 KOPF = "## Rechtsgrundlagen-Index (Pflichtquellen)"
 NORM_MARKER = re.compile(r"(§|Art\.?\s*\d|Artikel\s+\d)")
 
