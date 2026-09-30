@@ -28,7 +28,7 @@
 | § 3 ArbSchG | Organisation und Gefährdungsbeurteilung für den Teileinsatz prüfen. |
 | § 5 ArbSchG | Organisation und Gefährdungsbeurteilung für den Teileinsatz prüfen. |
 | § 87 Abs. 1 Nr. 7 BetrVG | Mitbestimmung bei kollektivem Gesundheitsschutz prüfen. |
-| Art. 8 Abs. 3 und 4 GKV-Beitragssatzstabilisierungsgesetz | Gesetzesbeschluß; verkündet 29.07.2026 (BGBl. 2026 I Nr. 228) |
+| Art. 8 Abs. 3 und 4 GKV-Beitragssatzstabilisierungsgesetz | 1.1.2028 für § 44c-Paket; 1.7.2028 für § 109 Abs. 2 SGB IV. |
 
 #### Rechtsprechung
 

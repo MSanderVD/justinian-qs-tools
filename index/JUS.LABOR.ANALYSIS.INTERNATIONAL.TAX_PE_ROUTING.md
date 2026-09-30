@@ -31,7 +31,7 @@
 | § 8 KStG | Unbeschränkte/beschränkte Körperschaftsteuer und gewerbesteuerlicher Inlandsbezug. |
 | § 2 GewStG | Unbeschränkte/beschränkte Körperschaftsteuer und gewerbesteuerlicher Inlandsbezug. |
 | § 1 Abs. 5 AStG | Nur nach PE-Prüfung; Funktions-/Risikoanalyse erforderlich. |
-| Art. 31 ff. | Im deutschen Recht zusammen mit Zustimmungsgesetz und BFH-Auslegung anwenden. |
+| Art. 31 ff. WÜRV | Völkerrechtliche Auslegungsregeln (Wiener Übereinkommen über das Recht der Verträge). |
 
 #### Rechtsprechung
 

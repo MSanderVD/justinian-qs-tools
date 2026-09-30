@@ -22,7 +22,7 @@
 | § 2 Nr. 1 GeschGehG | Prüfen, ob vertrauliche Informationen in KI-Tools eingegeben wurden. |
 | § 4 GeschGehG | Prüfen, ob vertrauliche Informationen in KI-Tools eingegeben wurden. |
 | Art. 3 KI-VO | Begriffe KI-System, Betreiber, Zweckbestimmung, Fehlanwendung. |
-| Art. 4 KI-VO | Offizieller KI-VO-Anker geprüft; Digital-Omnibus-Stand beobachten. Stand 27.08.2026: Digital Omnibus in Kraft (Verordnung (EU) 2026/1744, seit 27.07.2026). |
+| Art. 4 KI-VO | Offizieller KI-VO-Anker geprüft; Digital-Omnibus-Stand beobachten. |
 | Art. 14 KI-VO | Routen, wenn KI-Ausgaben Grundlage kritischer Entscheidungen sind. |
 | Art. 26 KI-VO | Routen bei Hochrisiko-KI, Arbeitnehmerinformation, Logs, DSFA. |
 | Art. 50 KI-VO | Prüfen, ob externe oder öffentliche KI-Ausgaben zu kennzeichnen sind. |

@@ -9,7 +9,7 @@
 | § 130 OWiG | Betrieb/Unternehmen, Pflichtenträger, erforderliche Aufsicht, Zuwiderhandlung, Kausalität und Verschulden prüfen; amtliche Norm vor Produktivfreigabe verifizieren. |
 | § 9 OWiG | Rollen von Organen, Beauftragten und Leitungsverantwortlichen prüfen; amtliche Norm vor Produktivfreigabe verifizieren. |
 | § 17 OWiG | Nur Hinweis auf CALCULATION-/Spezialprüfung; keine Berechnung; amtliche Norm vor Produktivfreigabe verifizieren. |
-| Art. 4 KI-VO | Pflicht zur Qualifikation/Schulung prüfen; Digital-Omnibus- und Sanktionsstatus vor Freigabe prüfen. Stand 27.08.2026: Digital Omnibus in Kraft (Verordnung (EU) 2026/1744, seit 27.07.2026). |
+| Art. 4 KI-VO | Pflicht zur Qualifikation/Schulung prüfen; Digital-Omnibus- und Sanktionsstatus vor Freigabe prüfen. |
 | Art. 26 KI-VO | Betriebsanleitung, kompetente Aufsicht, Überwachung, Eingabedaten, Logs, Information von Arbeitnehmervertretern prüfen; verifiziert. |
 | Art. 99 KI-VO | Sanktions-/Eskalationskontext, insbesondere Betreiberpflichten; verifiziert. |
 | Art. 113 KI-VO | Anwendungsbeginn je Pflicht prüfen; Art. 26 ab 02.08.2026 beachten; verifiziert. |

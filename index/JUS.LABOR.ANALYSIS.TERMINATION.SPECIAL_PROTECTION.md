@@ -36,7 +36,7 @@
 | BAG | 2 AZR 498/19 | 27.02.2020 | § 17 MuSchG kann auch vor tatsächlicher Arbeitsaufnahme relevant sein; Kündigungsverbot bei Schwangerschaft mit Kenntnis/Mitteilung. |
 | BAG | 2 AZR 156/24 | 03.04.2025 | § 4 Satz 4 KSchG findet nach BAG-Leitsatz nicht Anwendung, wenn der Arbeitgeber bei Kündigungszugang keine Kenntnis vom MuSchG-Schutz hatte. |
 | BAG | 2 AZR 384/10 | 12.05.2011 | § 18 BEEG enthält ein gesetzliches Kündigungsverbot mit Vorwirkung ab Elternzeitverlangen, höchstens acht Wochen vor Beginn nach altem Rechtsstand. |
-| BAG | 2 AZR 213/25 | 18.06.2026 | Vorwirkender Kündigungsschutz bei aufgeteilter Elternzeit nach BAG-Presse auch vor einzelnen Elternzeitabschnitten. |
+| BAG | 2 AZR 213/25 | 18.06.2026 | Vorläufig: Volltext noch nicht veröffentlicht (Stand 28.09.2026), belegt ist nur die BAG-Pressemitteilung Nr. 25/26 vom 18.06.2026; als aktuelle Kontextquelle kennzeichnen und nach Veröffentlichung des Volltexts nachprüfen. |
 | BAG | 9 AZR 145/15 | 10.05.2016 | Wirksame Inanspruchnahme der Elternzeit und Formanforderungen können für § 18 BEEG erheblich sein. |
 | BAG | 8 AZR 191/21 | 02.06.2022 | § 173 Abs. 3 SGB IX kann Anwendung des Zustimmungserfordernisses bei nicht nachgewiesener Schwerbehinderung/Gleichstellung ausschließen. |
 | BAG | 2 AZR 193/21 | 22.07.2021 | Zustimmung des Integrationsamts zur außerordentlichen Kündigung entfaltet im Kündigungsschutzprozeß Wirkung, solange sie nicht bestands- oder rechtskräftig aufgehoben ist. |

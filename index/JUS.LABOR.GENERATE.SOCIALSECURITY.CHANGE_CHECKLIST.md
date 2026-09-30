@@ -6,7 +6,7 @@
 
 | Norm | Funktion |
 |---|---|
-| Art. 8 GKV-Beitragssatzstabilisierungsgesetz | Gesetzesbeschluß BR-Drs. 411/26; verkündet 29.07.2026 (BGBl. 2026 I Nr. 228). |
+| Art. 8 GKV-Beitragssatzstabilisierungsgesetz | Maßnahmen nach 2027, 01.01.2028 und weiteren Stufen trennen. |
 | § 6 Abs. 6 bis 8 SGB V | Zusätzliche Erhöhung und Bestandsfall gesondert planen. |
 | § 8 Abs. 1 Satz 1 Nr. 1 SGB V | Status- und Antragsprozesse bei Grenzänderung prüfen. |
 | § 44 Abs. 1a SGB V | Leistungs- und Payroll-Schnittstelle als Dependency abbilden. |

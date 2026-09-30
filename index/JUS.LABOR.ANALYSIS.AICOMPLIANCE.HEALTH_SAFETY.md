@@ -14,7 +14,7 @@
 | § 87 Abs. 1 Nr. 7 BetrVG | In v9 als Evidence-Hinweis vorgesehen; amtlich/JUS verifizieren. |
 | § 87 Abs. 1 Nr. 6 BetrVG | Monitoring-, Ranking-, Log- und IT-Security-Bezug routen. |
 | § 90 BetrVG | Unterrichtung/Beratung bei Arbeitsverfahren, Arbeitsabläufen und KI. |
-| Art. 4 KI-VO | Offizielle EU-Quelle geprüft; Digital-Omnibus-Monitor beachten. Stand 27.08.2026: Digital Omnibus in Kraft (Verordnung (EU) 2026/1744, seit 27.07.2026). |
+| Art. 4 KI-VO | Schulung und Kompetenzmaßnahmen als Arbeitsschutz- und Compliance-Baustein berücksichtigen. |
 | Art. 14 KI-VO | Verantwortliche Kontrolle und Stop-/Override-Befugnis routen. |
 | Art. 26 KI-VO | Betrieb, Aufsicht, Monitoring und Information am Arbeitsplatz prüfen. |
 

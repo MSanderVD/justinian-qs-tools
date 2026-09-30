@@ -18,7 +18,7 @@
 
 ### Ohne Paragraph
 
-- (keine)
+- Digital-Omnibus-Rechtsakt / Entwurf
 
 ### Abgrenzungsquellen
 

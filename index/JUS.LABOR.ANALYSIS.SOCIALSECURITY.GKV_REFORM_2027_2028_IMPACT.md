@@ -6,7 +6,7 @@
 
 | Norm | Funktion |
 |---|---|
-| Artikel 8 GKV-Beitragssatzstabilisierungsgesetz | Gesetzesbeschluß; verkündet 29.07.2026 (BGBl. 2026 I Nr. 228) |
+| Artikel 8 GKV-Beitragssatzstabilisierungsgesetz | Jedes Reformmodul dem bestätigten Inkrafttreten zuordnen. |
 | § 6 Abs. 6 bis 8 SGB V | Betroffene Entgelt- und PKV-Bestandsgruppen erkennen. |
 | § 8 Abs. 1 SGB V | Betroffene Entgelt- und PKV-Bestandsgruppen erkennen. |
 | § 223 Abs. 3 und 4 SGB V | Payroll-Betroffenheit erkennen; konkrete Werte delegieren. |

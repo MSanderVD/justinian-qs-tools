@@ -7,7 +7,7 @@
 | Norm | Funktion |
 |---|---|
 | Art. 3 KI-VO | Begriffe KI-System, Anbieter, Betreiber, Zweckbestimmung, Fehlanwendung. |
-| Art. 4 KI-VO | Offizieller AI Act Service Desk / EUR-Lex; geprüft 10.07.2026; Digital-Omnibus-Monitor beachten. Stand 27.08.2026: Digital Omnibus in Kraft (Verordnung (EU) 2026/1744, seit 27.07.2026). |
+| Art. 4 KI-VO | Offizieller AI Act Service Desk / EUR-Lex; geprüft 10.07.2026; Digital-Omnibus-Monitor beachten. |
 | Art. 5 KI-VO | Manipulation, Ausnutzung, Social-Scoring, unzulässige Emotionserkennung oder biometrische Praktiken als Stop-Trigger prüfen. |
 | Art. 14 KI-VO | Aufsicht, Verstehen, Überwachen, Eingreifen, Stoppen und Zuständigkeit prüfen. |
 | Art. 26 KI-VO | Betriebsanleitung, menschliche Aufsicht, Protokolle, Information Arbeitnehmer/Vertreter und Vorfallpflichten prüfen. |

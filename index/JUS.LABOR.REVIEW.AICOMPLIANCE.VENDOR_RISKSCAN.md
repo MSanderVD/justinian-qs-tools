@@ -7,7 +7,7 @@
 | Norm | Funktion |
 |---|---|
 | Art. 3 VO (EU) 2024/1689 | 10.07.2026; offizielle EU-Quelle prüfen |
-| Art. 4 KI-VO | Digital-Omnibus-Stand beobachten. Stand 27.08.2026: Digital Omnibus in Kraft (Verordnung (EU) 2026/1744, seit 27.07.2026). |
+| Art. 4 KI-VO | Schulungs- und Kompetenznachweise als Freigabebestandteil prüfen |
 | Art. 5 KI-VO | Ausschluß verbotener Praktiken, insbesondere manipulative Systeme oder unzulässige Emotionserkennung am Arbeitsplatz |
 | Art. 6 und Annex III Nr. 4 KI-VO | Recruiting, Arbeitsbeziehung, Aufgabenverteilung, Monitoring, Leistungs-/Verhaltensbewertung prüfen |
 | Art. 13 KI-VO | Informationen an Betreiber, menschliche Aufsicht, Genauigkeit/Robustheit/Cybersecurity |

@@ -9,7 +9,7 @@
 | § 5 Absatz 1 Nummer 1 SGB V | Grundtatbestand der Krankenversicherungspflicht für Beschäftigte. |
 | § 6 Absatz 1 Nummer 1 SGB V | Versicherungsfreiheit bei Überschreiten der maßgeblichen JAEG. |
 | § 6 Absatz 4 SGB V | Zeitpunkt des Endes der Versicherungspflicht bei Überschreiten. |
-| § 6 Absatz 6 SGB V | Gesetzesbeschluß; verkündet 29.07.2026 (BGBl. 2026 I Nr. 228). |
+| § 6 Absatz 6 SGB V | Allgemeine JAEG; reguläre Anpassung plus 3.600 Euro 2027. |
 | § 6 Absatz 7 SGB V | Besondere JAEG für Altbestand 31.12.2002. |
 | § 6 Absatz 8 SGB V | Stichtag, Grund der Versicherungsfreiheit und substitutive PKV. |
 | § 8 Absatz 1 Satz 1 Nummer 1, Absatz 2 SGB V | Tatbestand, Antrag, Frist, Bescheid und Bindung. |

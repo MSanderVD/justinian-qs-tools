@@ -6,9 +6,9 @@
 
 | Norm | Funktion |
 |---|---|
-| § 167 Abs. 2 SGB IX | Aktuelle Fassung verifiziert; die Änderung um Teil-AU nach Art. 2b GKV-BStabG ist am 29.07.2026 verkündet (BGBl. 2026 I Nr. 228), gilt aber erst ab 01.01.2028. |
+| § 167 Abs. 2 SGB IX | Aktuelle Fassung verifiziert; Änderung um Teil-AU nach Art. 2b noch nicht verkündet. |
 | Art. 2b GKV-Beitragssatzstabilisierungsgesetz | Einbeziehung von Teilarbeitsunfähigkeit in § 167 Abs. 2 SGB IX. |
-| § 44c SGB V-E | 25/50/75 Prozent, Zeitraum, Zustimmung, kein Anpassungsanspruch aus der Norm. |
+| § 44c SGB V | 25/50/75 Prozent, Zeitraum, Zustimmung, kein Anpassungsanspruch aus der Norm. |
 | § 74 SGB V | Ärztliche Feststellung, Teil-Ausübung und bessere Wiedereingliederungsprognose. |
 | § 44 SGB IX | Stufenweise Wiedereingliederung im Rehabilitationsrecht. |
 | § 164 Abs. 4 SGB IX | Ansprüche schwerbehinderter Mitarbeiter auf behinderungsgerechte Beschäftigung und Gestaltung. |

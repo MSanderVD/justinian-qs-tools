@@ -57,7 +57,7 @@
 | BAG | 2 AZR 483/14 | 26.03.2015 | Zugang bei Briefkasten; individuelle Abwesenheit hindert Zugang nicht, wenn gewöhnliche Kenntnisnahme möglich war. |
 | BAG | 1 AZR 1004/06 | 19.02.2008 | E-Mail wahrt § 623 BGB nicht (elektronische Form gesetzlich ausgeschlossen); Nichtigkeit nach § 125 S. 1 BGB. |
 | BAG | 9 AZR 102/20 | 01.12.2020 | E-Mail-Kündigung formunwirksam; Schriftsatzkündigung durch Anwalt wahrt Schriftform. |
-| BAG | 2 AZR 99/24 | 30.07.2026 | E-Mail aus Ausland: Vornahmeort = Absendeort; § 623 BGB keine Eingriffsnorm. |
+| BAG | 2 AZR 99/24 (B) | 18.06.2025 | E-Mail aus Ausland: Vornahmeort = Absendeort; § 623 BGB keine Eingriffsnorm. |
 | BAG | 6 AZR 709/14 | 17.12.2015 | Telefax wahrt § 126 Abs. 1 BGB nicht (nur Ablichtung der Unterschrift); Prozessrechtliche Zulässigkeit (§ 130a ZPO) ändert nichts an zivilrechtlichem Formerfordernis. |
 | BAG | 6 AZR 519/07 | 24.01.2008 | Abgrenzung Unterschrift (Namenswiedergabe, volle Unterschriftsleistung) vs. Paraphe (Handzeichen). |
 | BAG | 6 AZR 687/09 | 09.06.2011 | Übergabe an Ehegatten als Empfangsboten; Zugang erst nach Ablauf der üblichen Übermittlungszeit. |

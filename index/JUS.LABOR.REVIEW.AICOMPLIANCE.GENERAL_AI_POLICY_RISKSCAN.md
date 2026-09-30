@@ -6,7 +6,7 @@
 
 | Norm | Funktion |
 |---|---|
-| Art. 4 KI-VO | EU-KI-VO; Digital-Omnibus-Stand als Monitoring-Flag. Stand 27.08.2026: Digital Omnibus in Kraft (Verordnung (EU) 2026/1744, seit 27.07.2026). |
+| Art. 4 KI-VO | Prüfen, ob Policy Rollen, Schulung, Kompetenzniveau und Nachweise adressiert. |
 | Art. 5 KI-VO | Policy muß verbotene KI-Praktiken mit Arbeitsplatzbezug, insbesondere Emotionserkennung am Arbeitsplatz, abfangen. |
 | Art. 6 i. V. m. Anhang III Nr. 4 KI-VO | Recruiting, Arbeitsbedingungen, Aufgabenallokation, Leistungs-/Verhaltensbewertung und Beendigung als Red Flags erkennen. |
 | Art. 13 KI-VO | Policy muß bei Hochrisiko-Use-Cases auf Spezialprüfung, Aufsicht und Informationspflichten verweisen. |

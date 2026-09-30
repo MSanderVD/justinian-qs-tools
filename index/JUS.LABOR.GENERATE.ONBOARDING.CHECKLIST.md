@@ -42,7 +42,7 @@
 | § 5 TVG | Tarifbindung, Normwirkung und Allgemeinverbindlichkeit. |
 | § 164 SGB IX | Nur bei offenbartem/relevantem Trigger angemessene Gestaltung und SBV-Routing. |
 | § 178 SGB IX | Nur bei offenbartem/relevantem Trigger angemessene Gestaltung und SBV-Routing. |
-| Art. 4 in Verbindung mit dem Digital Omnibus on AI | Änderungsrechtsakt am 29.06.2026 angenommen; Amtsblatt/Inkrafttreten vor Produktivsetzung verifizieren. Stand 27.08.2026: Digital Omnibus in Kraft (Verordnung (EU) 2026/1744, seit 27.07.2026). |
+| Art. 4 in Verbindung mit dem Digital Omnibus on AI | Änderungsrechtsakt am 29.06.2026 angenommen; Amtsblatt/Inkrafttreten vor Produktivsetzung verifizieren |
 
 #### Rechtsprechung
 

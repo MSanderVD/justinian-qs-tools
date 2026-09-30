@@ -21,7 +21,7 @@
 | § 113 BetrVG | KI-bedingte Organisationsänderung, Personalabbau oder neue Arbeitsmethoden prüfen. |
 | § 87 Abs. 1 Nr. 1, 6, 7 BetrVG | Wenn echte Mitbestimmung betroffen ist, WORKS_COUNCIL_CODETERMINATION aktivieren. |
 | Art. 26 KI-VO | Bei Hochrisiko-KI Informationspflicht gegenüber Arbeitnehmervertretern und Beschäftigten prüfen. |
-| Art. 4 KI-VO | Rechtsstand / Omnibus-Monitor beachten. Stand 27.08.2026: Digital Omnibus in Kraft (Verordnung (EU) 2026/1744, seit 27.07.2026). |
+| Art. 4 KI-VO | KI-Kompetenz als Nachbar- und Schulungsbezug. |
 
 #### Rechtsprechung
 

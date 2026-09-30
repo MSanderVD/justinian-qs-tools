@@ -6,7 +6,7 @@
 
 | Norm | Funktion |
 |---|---|
-| § 44 Abs. 1a SGB V | Inkrafttreten vorgesehen 01.01.2028; verkündet 29.07.2026 (BGBl. 2026 I Nr. 228) |
+| § 44 Abs. 1a SGB V | Inkrafttreten vorgesehen 01.01.2028; Verkündung [Unverifiziert] |
 | § 44c Abs. 1 bis 4 SGB V | TAU, Zustimmung, Arbeitsbeginn, anteiliges Arbeitsentgelt |
 | § 44c Abs. 7 SGB V | Entsprechende Anwendung EFZG; keine Verlängerung |
 | § 49 Abs. 1 SGB V | Ruhen des Krankengeldes und Ausnahme für anteiliges Arbeitsentgelt |
@@ -17,7 +17,7 @@
 | § 611a Abs. 2 BGB | Vergütung für Arbeitsleistung und Fälligkeit |
 | § 614 BGB | Vergütung für Arbeitsleistung und Fälligkeit |
 | § 3 MiLoG | Bei niedrigem anteiligem Entgelt / Stundenbezug |
-| Art. 8 Abs. 3 und 4 GKV-Beitragssatzstabilisierungsgesetz | Gesetzesbeschluß; verkündet 29.07.2026 (BGBl. 2026 I Nr. 228) |
+| Art. 8 Abs. 3 und 4 GKV-Beitragssatzstabilisierungsgesetz | Gesetzesbeschluß; Verkündung [Unverifiziert] |
 
 #### Rechtsprechung
 

@@ -6,7 +6,7 @@
 
 | Norm | Funktion |
 |---|---|
-| Art. 4 KI-VO | Offizieller KI-VO-Anker geprüft; Digital-Omnibus-Stand gesondert beobachten. Stand 27.08.2026: Digital Omnibus in Kraft (Verordnung (EU) 2026/1744, seit 27.07.2026). |
+| Art. 4 KI-VO | Offizieller KI-VO-Anker geprüft; Digital-Omnibus-Stand gesondert beobachten. |
 | Art. 14 KI-VO | Aufsicht, Übersteuerung, Stop-Regel, Automatisierungsbias und Entscheidungsbefugnis als Kontrollpunkte. |
 | Art. 26 KI-VO | Betriebsanleitung, Aufsicht, Überwachung, Protokolle, Arbeitnehmerinformation, DSFA-Bezug. |
 | § 241 BGB | Haftungsrelevante Pflichtverletzung, Sorgfaltsmaßstab und Beweisvorsorge als Nachbarprüfung. |

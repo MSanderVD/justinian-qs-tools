@@ -23,7 +23,7 @@
 | § 4 EFZG | Voraussetzungen und Vorerkrankungs-/Dauerprüfung an PAY routen. |
 | § 167 Abs. 2 SGB IX | BEM bei längerer vollständiger oder teilweiser AU. |
 | § 164 Abs. 4 SGB IX | Beschäftigungs- und Anpassungsrechte schwerbehinderter Menschen. |
-| Art. 8 GKV-Beitragssatzstabilisierungsgesetz | Gesetzesbeschluß; verkündet 29.07.2026 (BGBl. 2026 I Nr. 228) |
+| Art. 8 GKV-Beitragssatzstabilisierungsgesetz | Materiellen und elektronischen Start getrennt versionieren. |
 
 #### Rechtsprechung
 
