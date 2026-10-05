@@ -22,7 +22,7 @@
 | § 14 BQFG | Sonstige Verfahren, beschleunigtes Verfahren, Mitwirkung und Verwaltungsrechtsweg. |
 | § 15 BQFG | Sonstige Verfahren, beschleunigtes Verfahren, Mitwirkung und Verwaltungsrechtsweg. |
 | § 16 BQFG | Sonstige Verfahren, beschleunigtes Verfahren, Mitwirkung und Verwaltungsrechtsweg. |
-| Art. 3, 4, 5 bis 7, 10 bis 14 und Titel III Kapitel III | EU-System für reglementierte Berufsqualifikationen, Dienstleistung, allgemeine und sektorale Anerkennung. |
+| Art. 3, 4, 5 bis 7, 10 bis 14 und Titel III Kapitel III Richtlinie 2005/36/EG | EU-System für reglementierte Berufsqualifikationen, Dienstleistung, allgemeine und sektorale Anerkennung. |
 | Art. 45 AEUV | Grundfreiheiten als unionsrechtlicher Prüfrahmen. |
 | Art. 49 AEUV | Grundfreiheiten als unionsrechtlicher Prüfrahmen. |
 | Art. 56 AEUV | Grundfreiheiten als unionsrechtlicher Prüfrahmen. |
@@ -50,7 +50,6 @@
 
 ### Ohne Paragraph
 
-- Richtlinie 2005/36/EG, insbesondere
 - Berufsspezifisches Bundes- und Landesrecht
 
 ### Abgrenzungsquellen

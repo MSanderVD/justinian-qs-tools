@@ -1068,7 +1068,43 @@ def _vorspann_gesetz(vorspann):
     # Ein unbekanntes Kuerzel laesst das Zitat lieber ohne Gesetz: das ist ein
     # weicher Befund, eine erfundene Fundstelle waere ein harter.
     return g if _taugt_als_gesetz(g) and _ist_abk(g) else ""
+_NACKTER_EU_AKT_RE = re.compile(
+    r"^(?P<akt>(?:Richtlinie|Verordnung|RL|VO)\s*(?:\((?:EU|EG|EWG)\)\s*)?(?:Nr\.\s*)?"
+    r"\d{2,4}/\d{1,4}(?:/(?:EU|EG|EWG))?)\s*,?\s*(?:insbesondere)?\s*$")
+_ARTIKEL_BRUCHSTUECK_RE = re.compile(r"^Art(?:ikel|\.)\s*\d")
+
+
+def _eu_akt_vorn_zusammenfuehren(teile):
+    """EU-Rechtsakt VORN, Artikel dahinter (05.10.2026): 'Richtlinie 2005/36/EG,
+    insbesondere Art. 3, 4 ...' und 'Verordnung (EU) 2024/1689 Art. 4 in
+    Verbindung mit ...' zerfielen in den nackten Rechtsakt und ein Artikel-
+    Bruchstueck OHNE Gesetz - in der Crawl-Liste stand dann 'Art. 3, 4, 5 bis 7,
+    10 bis 14 und Titel III Kapitel III' als eigenes Werk.
+
+    Bewusst NACH der regulaeren Zerlegung und eng: nur ein Paar aus nacktem
+    Rechtsakt und unmittelbar folgendem Artikelteil, der selbst KEINEN Rechtsakt
+    traegt. Ein frueher Ansatz vor der Zerlegung (A/B 05.10.: 17 Skills geaendert)
+    fasste sauber einzeln erkannte Artikel zusammen und verlor Nachbar-Rechtsakte."""
+    if os.environ.get("STUFE1_OHNE_EU_AKT_VORN") == "1":
+        return teile
+    out, i = [], 0
+    while i < len(teile):
+        m = _NACKTER_EU_AKT_RE.match(teile[i])
+        if (m and i + 1 < len(teile) and _ARTIKEL_BRUCHSTUECK_RE.match(teile[i + 1])
+                and not EU_AKT_RE.search(teile[i + 1])):
+            out.append(f"{teile[i + 1].strip()} {m.group('akt').strip()}")
+            i += 2
+            continue
+        out.append(teile[i])
+        i += 1
+    return out
+
+
 def split_normen(cell):
+    return _eu_akt_vorn_zusammenfuehren(_split_normen_roh(cell))
+
+
+def _split_normen_roh(cell):
     cell = _konkretisierung(norm_txt(cell))
     if not cell:
         return []
