@@ -43,7 +43,7 @@
 | BAG | 1 ABR 25/10 | 18.10.2011 | Tarifgebundener Arbeitgeber und betriebliche Lohngestaltung; Vergütungsordnung als Entlohnungsgrundsatz nach § 87 Abs. 1 Nr. 10 BetrVG. |
 | BAG | 1 ABR 16/23 | 16.07.2024 | Aufzeichnung oder Speicherung der Daten ist für den Überwachungsbegriff nicht zwingend erforderlich; es genügt, wenn Datenerhebung und -übermittlung technisch erfolgt und die Daten wahrnehmbar gemacht werden; entscheidend ist objektive Eignung zur Überwachung, nicht subjektive Überwachungsabsicht. |
 | BAG | 1 ABR 11/24 | 20.05.2025 | Tarifvertrag schließt Mitbestimmung nur aus, wenn er die mitbestimmungspflichtige Angelegenheit selbst zwingend und abschließend regelt. |
-| BAG | 10 AZR 346/22 | 21.02.2024 | Entscheidung zu Urlaubsgeld/Grundzusage, aber mit allgemeinen Aussagen zur Mitbestimmung bei nicht tarifgebundenen Arbeitgebern. Harte Grenze: BAG 10 AZR 346/22 lag zum Rechtsstand (09.07.2026) nicht veröffentlicht vor; veröffentlicht ist das Urteil BAG 10 AZR 345/22 vom selben Tag (21.02.2024), das |
+| BAG | 10 AZR 345/22 | 21.02.2024 | Bei Einführung neuer Vergütungsbestandteile beeinflusst dies Verteilung der Gesamtvergeltung und Festlegung des Verhältnisses der Entgeltbestandteile zueinander; nicht tarifgebundene Arbeitgeber kann Gesamtvergeltungsvolumen mitbestimmungsfrei festlegen; Mitbestimmung bezieht sich auf die Vorteilung |
 
 ### Ohne Paragraph
 
