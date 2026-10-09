@@ -296,10 +296,10 @@
   "index_sha256": "e5e24c24b109b0a0e78cbf307e16f425285b7a765db0ede2e3314f789b4bd6dc"
  },
  "JUS.LABOR.ANALYSIS.APPRENTICESHIP.YOUTH_PROTECTION": {
-  "docx_sha256": "bb705d35046cfe27928c0867ee0be3cb2256fb6a9f1752c529a31a0ec136b830",
+  "docx_sha256": "9a46b9d254a172f12cfa1895ed61673851c904a294920ccdf23a4330ab2f2a2f",
   "normen": 72,
   "rechtsprechung": 4,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
   "index_sha256": "f6871e127f33852abf877db89e65a453cc0ef25f3e443fa02e56e2a803512573"
  },
@@ -416,10 +416,10 @@
   "index_sha256": "358ad2f35b2d7a4cebd48e41dd9b6fb2fe9628da40f10c306f251a1465d98cf3"
  },
  "JUS.LABOR.ANALYSIS.COMPLAINT.AGG_COMPLAINT_RIGHT": {
-  "docx_sha256": "0d35d35d6c15fa09b4f7b8a892e4d48b5d3dda82af032c6f48aba4dfb60445a5",
+  "docx_sha256": "a882613f20596de7966683d6c1361c84062e5b0dbad2131b6b5413d9b846bfda",
   "normen": 32,
   "rechtsprechung": 4,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
   "index_sha256": "a03ead9350dbacd83cb8e0eaf50987ab5819d4616e4c822c372aa022d6eec498"
  },
@@ -496,10 +496,10 @@
   "index_sha256": "263020e51ee7fd3ac388e2b728cdebc3ba20ace77abf623ecdc4caeb454df9e5"
  },
  "JUS.LABOR.ANALYSIS.DATAPROTECTION.LEGAL_BASIS": {
-  "docx_sha256": "5f344141fd74b571de1381824f246d2e350c6254616b539d04a3cfebbf83969f",
+  "docx_sha256": "008114fedb25b0be7b547ef094b1c455195e9d2f3ccbbfe9073b6ef70db53889",
   "normen": 52,
   "rechtsprechung": 8,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
   "index_sha256": "4fb161b8097988e0c0cf81f660b728c84d806b80edad815839676b3e12bae0df"
  },
@@ -1032,10 +1032,10 @@
   "index_sha256": "a5f98aadf6d38158eba7c5406f85d63e88785d1c7da81d5246dea77573288085"
  },
  "JUS.LABOR.ANALYSIS.PAYTRANSPARENCY.EQUAL_VALUE": {
-  "docx_sha256": "e82beace49d5675685b6c98d9a42468c87165ab59aac9bb68b30cb4fed72fb92",
+  "docx_sha256": "2e786f779e39772688452c4d6cf7ec4d032027d90565f2ee4c68685c80974c98",
   "normen": 18,
   "rechtsprechung": 11,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
   "index_sha256": "30ac352aaf40d78c3f939ac927970e663912bba08bf0041c94c7d0c4dbfddaad"
  },
@@ -1128,10 +1128,10 @@
   "index_sha256": "67ce94c8b680663b615d00e51b781ce59bb762c1a730654bdd1310008816bb68"
  },
  "JUS.LABOR.ANALYSIS.RECRUITING.WORKS_COUNCIL_SELECTION_GUIDELINES": {
-  "docx_sha256": "e33c6daf6a49d95dc8fa137e416968cfa7b38f1f7f652f1c18d473cba907c948",
+  "docx_sha256": "df4f48aab655c2b203ff1805c95b0d1ce0f557af62a2afde5a90be340048d2b7",
   "normen": 12,
   "rechtsprechung": 8,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
   "index_sha256": "d7e61758a66c9ad7deaf128efd01f2611f862ab5d600362e412f7fbe0a10453a"
  },
@@ -1312,10 +1312,10 @@
   "index_sha256": "3d98ae7476a560fb24ea23de97500723626cd52d0bd587e142ea6905e9b39586"
  },
  "JUS.LABOR.ANALYSIS.TERMINATION.LEGALITY": {
-  "docx_sha256": "6dfe4501cfa19370d9659af805095f6ca6c588f6102a5fd437cbaa97281d304d",
+  "docx_sha256": "095a4f48be1a96868522a4cad557188bbb33e5097cc81371a2d9ceec654c872d",
   "normen": 28,
   "rechtsprechung": 6,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
   "index_sha256": "0cfd92e605dabf5b6516fafa490785ff69b7d33fc567c510f73efe2f49d7023a"
  },
@@ -1376,18 +1376,18 @@
   "index_sha256": "98dfe05c351445ff239cb3b3d201fa90e2762c5c028db6e081d7111342d50e73"
  },
  "JUS.LABOR.ANALYSIS.TERMINATION.RETIREMENT_NO_END_CLAUSE": {
-  "docx_sha256": "1e63507dfac668da5245b276548b0c8db107fca0a825cde05b0d0b67c7255c97",
+  "docx_sha256": "1175273b02d5aded5d0961a52e85d59d6baf5e6ec204535b7462b51d9390c611",
   "normen": 12,
   "rechtsprechung": 5,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
   "index_sha256": "1034e62b59f8c78cb2ea5d8c0ede5769173643a6b1de8cd77cc3302d57fb1525"
  },
  "JUS.LABOR.ANALYSIS.TERMINATION.SETTLEMENT": {
-  "docx_sha256": "5b3fc95e1c7277a5cad3f71fb5de0fe6c1705d280fa7a8129f312ff2df944b17",
+  "docx_sha256": "5e3995ccd8cf5dbdc16df442f910a821148bffbc134985499d14dcfe29c18c03",
   "normen": 23,
   "rechtsprechung": 8,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
   "index_sha256": "a86733a4abbeb0c8b4921d5bb3b855e1cf30cc3bd8efb64847d551c4e6fc071a"
  },
@@ -1424,10 +1424,10 @@
   "index_sha256": "00dfa0f634b4521c0854ff16de9489cc74191eccd919d2c28adf2286c84d18e1"
  },
  "JUS.LABOR.ANALYSIS.TERMINATION.WORKS_COUNCIL": {
-  "docx_sha256": "c230273f78920218e1608cc47dec9c7032c2d9419d40ab99f4f8d345fc8cd992",
+  "docx_sha256": "2d36c9c97f1298b6a0af233240635c004c89dd0f93a9c5c26255700335dcbbcc",
   "normen": 6,
   "rechtsprechung": 19,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
   "index_sha256": "9be502b8723bb630980aa275c0e08414d6a87cc3c433862166d2eb5f0f823544"
  },
@@ -2264,10 +2264,10 @@
   "index_sha256": "bcbc4b5a1d3505012507e2ceef64c4bf946dee1599d98563c24e03bc3129f58f"
  },
  "JUS.LABOR.RESEARCH.TERMINATION.RETIREMENT_CASELAW": {
-  "docx_sha256": "e1535bf2716f10ed481082d783813669bdce435ee2d2a8fbfd427fa536b4bdcb",
+  "docx_sha256": "6213fe7d337041099b4996e2825a32cf1c7c869dd391d83c81721586a2dcf585",
   "normen": 11,
   "rechtsprechung": 17,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
   "index_sha256": "28f75ad8396dc460b10446b64e4b94a071d3f8f3ff2c1496cda814b1021829da"
  },
@@ -2312,12 +2312,12 @@
   "index_sha256": "f398220f7749d6fe8f0fbd336cc0895b9196ac31d342ccac20957f27433097d6"
  },
  "JUS.LABOR.REVIEW.APPRENTICESHIP.PUBLIC_SECTOR_POLICY_RISKSCAN": {
-  "docx_sha256": "d5b3f17797b5753ea493b16deca0131b7d8e1bdfb8a73be26d7d75856a055293",
+  "docx_sha256": "a4b6d115fce5ecce9423acb27f992d8c4081a03486556bcb1e3940744f25fdb0",
   "normen": 93,
   "rechtsprechung": 7,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
-  "index_sha256": "b7386487a13f7ba124adee7c61b90726d82d1041254773f77a4901685188132c"
+  "index_sha256": "3b90e2be609f48ded78b59edb80fb7eff99ebf4a664836dace4a092ef6804732"
  },
  "JUS.LABOR.REVIEW.APPRENTICESHIP.TERMINATION_RISKSCAN": {
   "docx_sha256": "664fbfc633124219f1742323aaa0fca1ce509fa7eaef88bae1ea3c0c34a0bd92",
@@ -2504,10 +2504,10 @@
   "index_sha256": "e8a69b2ef37127955a940ec91bda842d5a603862ccabfcfdbb35892c43c340ac"
  },
  "JUS.LABOR.REVIEW.WORKS_COUNCIL.AGREEMENT_RISKSCAN": {
-  "docx_sha256": "3934a1570047406e690c76d959f7098b19a91799232de9264ecf90a951c60ae2",
+  "docx_sha256": "5e01eb35d2c8d0c1be4d6f1f7992733be4a72cb99e447b8d82e3e7990f105910",
   "normen": 25,
   "rechtsprechung": 7,
-  "berechnet": "2026-10-06",
+  "berechnet": "2026-10-09",
   "bereich": "JUS_LABOR",
   "index_sha256": "17f1c005a8bfa1cb00c050408512f03e36816ccffaace15a2458190c799a6d66"
  },

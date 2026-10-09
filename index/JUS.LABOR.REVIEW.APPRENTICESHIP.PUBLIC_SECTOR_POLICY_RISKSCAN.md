@@ -106,7 +106,7 @@
 | BAG | 3 AZR 437/18 | 08.12.2020 | Die Entscheidung betrifft betriebliche Altersversorgung; keine pauschale Aussage zur Wirksamkeit einer Ausbildungsrichtlinie. |
 | BVerwG | 5 P 16.21 | 04.05.2023 | Bei § 80 Abs. 1 Nr. 21 BPersVG ist eine objektiv-finale Betrachtung technischer Überwachungsmöglichkeiten maßgeblich; subjektive Kontrollabsicht ist nicht allein entscheidend. |
 | BVerwG | 6 P 5.84 | 28.12.1984 | Die Mitbestimmung bei der Durchführung der Berufsbildung erstreckt sich auf alle Maßnahmen, die den Gesamtverlauf oder Einzelheiten der Berufsausbildung lenken oder regeln. |
-| BVerwG | 6 P 1/96 | 24.03.1998 | Mitbestimmung bei der Durchführung der Berufsbildung mit Ausnahme der Gestaltung von Lehrveranstaltungen und Auswahl von Lehrpersonen. |
+| BVerwG | 6 P 1.96 | 24.03.1998 | Präzisiert die Ausnahmen vom Mitbestimmungsrecht nach Hamburger Recht (§ 86 Abs. 1 Nr. 6 HmbPersVG a. F., heute § 88 Abs. 1 Nr. 18 HmbPersVG). Nur anwenden, wenn die Dienststelle in Hamburg liegt; das BPersVG (§ 80 Abs. 1 Nr. 9) kennt diese Ausnahme nicht. |
 | BVerwG | 6 P 12/98 | 10.11.1999 | Das Mitbestimmungsrecht des Personalrates an der Durchführung der Berufsausbildung betrifft nur unmittelbar damit zusammenhängende Maßnahmen. |
 | BVerwG | 6 P 3/02 | 17.10.2002 | Die Auswahl von Angehörigen des öffentlichen Dienstes für Maßnahmen der Berufsbildung unterliegt der Mitbestimmung. |
 
