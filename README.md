@@ -18,3 +18,13 @@ die erste Überschrift von `references/normen-rechtsprechung.md`. Ein alter Inde
   Änderungen landen erst mit einem NEUEN Tag im Builder. Das ist Absicht, damit ein Paketbau reproduzierbar bleibt.
 - Nur lesend genutzt: kein CMS-Zugriff, keine Schreibwege, keine Geheimnisse.
 - Dauerlösung: PhiBox legt die .docx beim Paketbau in die Sandbox (Weg 3).
+
+**QS-Paket (seit v8, 16.10.2026):** `qs_testfaelle.py` schneidet die Testfälle deterministisch aus der .docx
+des Skill-Pakets (in der Sandbox unter `/skills/<name_normalized>/<SKILL-ID>.docx`, Verzeichnis
+`/skills/manifest.json`) und schreibt `testfaelle.md` (wörtlich) und `testfaelle.json` (Parser
+`parse_testfaelle.py` aus Stufe 5, plus Herkunft mit sha256 der .docx). Aufruf im Agenten
+„JUS QS-Paket Builder“:
+
+    python3 qs_testfaelle.py <SKILL-ID> /workspace/skill
+
+Kein Sprachmodell schreibt Testfälle. Exit ≠ 0 heißt: kein QS-Paket (lieber keins als ein falsches).
