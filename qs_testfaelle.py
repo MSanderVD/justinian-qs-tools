@@ -252,8 +252,8 @@ def bauen(pfad, ziel, skill_id=None, paket=None):
                 "erzeugt_von": VERSION,
                 "erzeugt_am": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")}
     os.makedirs(ziel, exist_ok=True)
-    kopfzeilen = ["% QS-Paket: Testfaelle woertlich aus Teil %s der Word-Datei; nicht fuer Q&A-Agenten." % erg.get("teil"),
-                  "% Quelle: %s | Version %s | sha256 %s" % (herkunft["quelle"], herkunft["version"], sha[:12]), ""]
+    kopfzeilen = ["QS-Paket: Testfaelle woertlich aus Teil " + str(erg.get("teil")) + " der Word-Datei; nicht fuer Q&A-Agenten.",
+                  "Quelle: " + herkunft["quelle"] + " | Version " + str(herkunft["version"]) + " | sha256 " + sha[:12], "", ""]
     open(os.path.join(ziel, "testfaelle.md"), "w", encoding="utf-8").write("\n".join(kopfzeilen) + md + "\n")
     erg["herkunft"] = herkunft
     json.dump(erg, open(os.path.join(ziel, "testfaelle.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
